@@ -7,7 +7,6 @@ public class JavaStdin2 {
         Scanner sc = new Scanner(System.in);
         
         int a = sc.nextInt();
-        sc.nextLine();
         double d = sc.nextDouble();
         sc.nextLine();
         String s = sc.nextLine();
